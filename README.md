@@ -1,6 +1,8 @@
 # C_Sharp_Notes
 ___
 
+* Stable Release (Sept 2019): v. 7.3
+
 * C# source code compiles to intermediate code. The CLR uses a JIT compiler to translate the intermediate code to code for the processor used. 
 
 * A `declaration` defines a part of a program. `Statements` control the sequence of execution of the program. `Expressions` compute values and have other effects.
@@ -13,6 +15,20 @@ ___
 
 ## Data Types
 
+Built-In Types:
+
+* `bool`
+* `byte`
+* `char`
+* `double`
+* `decimal`
+* `int`
+* `float`
+* `long`
+* `object`
+* `short`
+* `string`
+
 * Numbers
   * int
   * double
@@ -21,6 +37,8 @@ ___
   
   
 * The `decimal` type has a smaller range but greater precision than `double`.
+
+
 ___
 
 ## Control Structures
