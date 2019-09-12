@@ -38,7 +38,6 @@ Built-In Types:
   
 * The `decimal` type has a smaller range but greater precision than `double`.
 
-
 ___
 
 ## Control Structures
