@@ -5,11 +5,31 @@ ___
 
 * A `declaration` defines a part of a program. `Statements` control the sequence of execution of the program. `Expressions` compute values and have other effects.
 
+* Integer division truncates the result.
+
+* You can get the remainder by using the `modulo` operator, the `%` character:
+
+
+
 ## Data Types
+
+* Numbers
+  * int
+  * double
+  * float
+  * fixed point (decimal)
+  
+  
+* The `decimal` type has a smaller range but greater precision than `double`.
+___
 
 ## Control Structures
 
+___
+
 ## Data Structures
+
+___
 
 ## Object Oriented Programming
 
