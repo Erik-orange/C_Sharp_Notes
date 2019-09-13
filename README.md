@@ -62,6 +62,12 @@ Built-In Types:
 
 * You can get the remainder by using the `modulo` operator, the `%` character.
 
+* C#’s value types are further divided into simple types, enum types, struct types, and nullable value types. C#’s reference types are further divided into class types, interface types, array types, and delegate types.
+
+* C#’s type system is unified such that a value of any type can be treated as an `object`. Every type in C# directly or indirectly derives from the `object` class type, and `object` is the ultimate base class of all types. 
+
+*  Values of reference types are treated as objects simply by viewing the values as type `object`.
+
 ___
 
 ## Control Structures
