@@ -14,13 +14,19 @@ ___
   Fields, methods, properties, and events are examples of members. 
   
   When C# programs are compiled, they are physically packaged into assemblies. Assemblies typically have the file extension .exe or .dll, depending on whether they implement applications or libraries, respectively.
-
-* C# source code compiles to intermediate code. The CLR uses a JIT compiler to translate the intermediate code to code for the processor used. 
+  
+  * C# source code compiles to intermediate code. The CLR uses a JIT compiler to translate the intermediate code to code for the specific processor used. 
 
 * C# offers garbage collection, exception handling, and is a type-safe language.
 
 * A `declaration` defines a part of a program. `Statements` control the sequence of execution of the program. `Expressions` compute values and have other effects.
 
+Accronynms:
+* IL - Intermediate Language
+
+* JIT - Just In Time
+
+* CLR - Common Language Runtime
 
 ## Data Types
 
