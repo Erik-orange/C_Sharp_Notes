@@ -30,9 +30,9 @@ Accronynms:
 
 ## Data Types
 
-* class
+* classes
 * interfaces
-* enum
+* enums
 * delegates
 
 Built-In Types:
