@@ -35,6 +35,12 @@ Accronynms:
 * enums
 * delegates
 
+* A class is a data structure that combines state (fields) and actions (methods and other function members) in a single unit.
+
+* Classes support inheritance and polymorphism, mechanisms whereby derived classes can extend and specialize base classes.
+
+
+
 Built-In Types:
 
 * `bool`
